@@ -1,0 +1,39 @@
+OBJECTDNA — PROJECT SUBMISSION INFORMATION
+
+Hackathon:
+Global Innovation Hackathon 2026 — Build for a Better Future
+
+Team Name:
+VERAX
+
+Team Leader:
+Aswini R I
+
+Team Members:
+1. Aswini R I — Team Leader
+2. Charumathi S.
+3. Aishwarya B.
+
+College:
+V S B College of Engineering Technical Campus, Coimbatore
+
+Department:
+B.E. Computer Science and Engineering
+
+Project Title:
+ObjectDNA — AI-Powered Circular Economy & Intelligent Reuse Platform
+
+GitHub:
+https://github.com/Aswini-ox/ObjectDNA-AI-Circular-Reuse-Platform
+
+Live Prototype:
+https://objectdna-ai-circular-reuse-platform.onrender.com
+
+Included Demo Video:
+demo/ObjectDNA_Demo_Video.mp4
+
+Submission package:
+This ZIP contains the complete prototype source code, documentation, screenshots and demo video requested for project submission.
+
+NOTE:
+The current web preview is designed to run without an external API key. Its demo analysis uses deterministic local data. The source includes a clear integration boundary for a future secured vision/AI backend.
